@@ -1,0 +1,7 @@
+venv/
+artifacts/raw/
+
+artifacts/models/
+artifacts/weights/
+artifacts/model_checkpoint/
+guns.egg-info/

@@ -1,0 +1,6 @@
+2026-01-19 21:13:03,704 - INFO - Created the artifacts\raw
+2026-01-19 21:13:03,704 - ERROR - Error while downlaoding data
+2026-01-19 21:13:03,704 - ERROR - Error while data ingestion pipeline
+2026-01-19 21:17:32,385 - INFO - Download the data from C:\Users\Lenovo\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2026-01-19 21:17:32,387 - INFO - Images moved sucesfully..
+2026-01-19 21:17:32,389 - INFO - Labels moved sucesfully..
